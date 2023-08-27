@@ -19,7 +19,7 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/kondrajusailendra/simple-calculator.git
+git clone https://github.com/kondrajusailendra/simple_calculator_using_HTML_CSS_JAVASCRIPT.git
 Navigate to the project directory:
 
 bash
@@ -39,7 +39,7 @@ Clone your forked repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/kondrajusailendra/simple-calculator.git
+git clone https://github.com/kondrajusailendra/simple_calculator_using_HTML_CSS_JAVASCRIPT.git
 Make changes to the HTML, CSS, or JavaScript files as needed.
 
 Open the index.html file in a web browser to test your changes.
